@@ -66,6 +66,9 @@ rtty非常适合远程维护您的或者您的公司的部署在全球各地的�
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=zhaojh329/rtty&type=Date)](https://www.star-history.com/#zhaojh329/rtty&Date)
 
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=zhaojh329/rtty&type=Date)](https://www.star-history.com/#zhaojh329/rtty&Date)
+
 ## 贡献代码
 如果您想帮助 rtty 变得更好，请参考 [CONTRIBUTING_ZH.md](/CONTRIBUTING_ZH.md)。
 

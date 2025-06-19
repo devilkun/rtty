@@ -67,6 +67,9 @@ the world.
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=zhaojh329/rtty&type=Date)](https://www.star-history.com/#zhaojh329/rtty&Date)
 
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=zhaojh329/rtty&type=Date)](https://www.star-history.com/#zhaojh329/rtty&Date)
+
 ## Contributing
 If you would like to help making [rtty](/) better,
 see the [CONTRIBUTING_ZH.md](/CONTRIBUTING_ZH.md) file.
